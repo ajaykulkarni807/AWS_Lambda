@@ -1,4 +1,5 @@
-AWS Lambda SNS Publisher and Subscriber with Unit Tests
+**AWS Lambda SNS Publisher and Subscriber with Unit Tests**
+
 This repository contains two AWS Lambda functions: SNSPublisherLambda and SNSSubscriberLambda, along with their respective unit test projects: SNSPublisherUnitTest and SNSSubscriberUnitTest.
 
 Overview
