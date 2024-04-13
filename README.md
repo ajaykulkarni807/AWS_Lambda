@@ -63,7 +63,4 @@ Deploy to AWS:
 bash
 Copy code
 aws lambda update-function-code --function-name SNSPublisherLambda --zip-file fileb://bin/Release/netcoreapp3.1/SNSPublisherLambda.zip
-aws lambda update-function-code --function-name SNSSubscriberLambda --zip-file fileb://bin/Release/netcoreapp3.1/SNSSubscriberLambda.zip
-
-License
---
+aws lambda update-function-code --function-name SNSSubscriberLambda --zip-file fileb:
